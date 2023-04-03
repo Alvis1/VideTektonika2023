@@ -12,19 +12,10 @@
 			]
 		},
 		{
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 83b458dbf5e549d12dd9727647925a49f2bf02d7
 			"Name": "Text3D",
 			"Enabled": true
 		},
 		{
-<<<<<<< HEAD
->>>>>>> 83b458dbf5e549d12dd9727647925a49f2bf02d7
-=======
->>>>>>> 83b458dbf5e549d12dd9727647925a49f2bf02d7
 			"Name": "SunPosition",
 			"Enabled": true
 		}
